@@ -1,2 +1,2 @@
-# hello-world
-Repository happened first time. 
+# Hello World
+Learning github.
